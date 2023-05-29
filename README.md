@@ -1,2 +1,2 @@
 # amz_scraping
-![画像の説明](./img/awssystem_graph.png)
+<img src="./img/awssystem_graph.png" alt="AWSシステム構成図" width="1000" height="800">
